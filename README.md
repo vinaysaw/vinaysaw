@@ -32,6 +32,8 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓. I'm a pa
 
 <br/> 
 
+### Languages and Tools::
+
 ![C](https://img.shields.io/badge/C%20-%23E34F26.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)

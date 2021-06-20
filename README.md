@@ -27,9 +27,7 @@
 <a href="https://www.facebook.com/syeda_reeha_quasar/">
   <img align="left" alt="Reeha's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<!-- <a href="https://www.hackerrank.com/syedareehaquasar/">
-  <img align="left" alt="Reeha's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>-->
+
 
 <br />
 
@@ -48,7 +46,7 @@ I'm a second student pursuing Bachelors's in Computer Science 🎓 from Maharaja
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - 📫 How to reach me: Linkedin (preferable)
 - ⚡ Fun fact: <a href = "https://www.theatlantic.com/science/archive/2017/11/how-the-zombie-fungus-takes-over-ants-bodies-to-control-their-minds/545864/#:~:text=And%20its%20body%20belongs%20to,ascend%20a%20nearby%20plant%20stem."> Some fungi create zombies, then control their minds </a>
-
+<img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 250 width = 300/>
 <br>
 <br>
 

@@ -25,7 +25,8 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓. I'm a pa
 ### Know more about me:
 
 
-- 🌱 I’m currently learning ML and learning about different algorithms 🛠.
+- 🌱 I’m currently learning ML and learning about different algorithms.
+
 
 - 📫 How to reach me:&nbsp; <a href="https://www.linkedin.com/in/vinay-shaw-131114185/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="nirmal-silwal" height="25" width="25" /></a> &nbsp;
 

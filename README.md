@@ -35,7 +35,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓. I'm a pa
 <br>
 <br>
 
-<br><br><br>
+<br>
 
 
 ![C](https://img.shields.io/badge/C%20-%23E34F26.svg?&style=for-the-badge&logo=C&logoColor=white)
@@ -43,8 +43,8 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓. I'm a pa
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20-%2300599C.svg?&style=for-the-badge&logo=haskell&ogoColor=white)
-
+![SQL](https://img.shields.io/badge/SQL%20-%2300599C.svg?&style=for-the-badge&logo=sql&ogoColor=white)
+![SQL](https://img.shields.io/badge/Flask%20-%2300599C.svg?&style=for-the-badge&logo=flask&ogoColor=white)
 
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
